@@ -1,0 +1,6 @@
+
+Initial account: Account 12345 - Owner: Alice, Balance: $500.00
+After deposit: Account 12345 - Owner: Alice, Balance: $700.00
+After withdrawal: Account 12345 - Owner: Alice, Balance: $600.00
+Insufficient funds error: Cannot withdraw $1000.00 from account 12345; insufficient funds.
+Deposit error: Deposit amount must be positive.

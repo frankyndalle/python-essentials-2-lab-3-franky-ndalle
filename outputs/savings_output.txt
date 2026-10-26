@@ -1,0 +1,6 @@
+
+Initial savings account: Account 67890 - Owner: Bob, Balance: $1000.00, Interest Rate: 5%
+After deposit: Account 67890 - Owner: Bob, Balance: $1200.00, Interest Rate: 5%
+After withdrawal: Account 67890 - Owner: Bob, Balance: $1100.00, Interest Rate: 5%
+After applying interest: Account 67890 - Owner: Bob, Balance: $1155.00, Interest Rate: 5%
+Insufficient funds error: Cannot withdraw $5000.00 from account 67890; insufficient funds.
